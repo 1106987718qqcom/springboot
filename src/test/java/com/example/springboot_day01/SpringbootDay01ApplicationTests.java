@@ -13,6 +13,7 @@ public class SpringbootDay01ApplicationTests {
 	@Test
 	public void contextLoads() {
 		int a = 0;
+		int b = 2;
 		System.out.println("a");
 	}
 	@GetMapping("/test")
