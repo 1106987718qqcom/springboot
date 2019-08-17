@@ -12,6 +12,7 @@ public class SpringbootDay01ApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		int a = 0;
 		System.out.println("a");
 	}
 	@GetMapping("/test")
